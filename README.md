@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning ... Microsoft AI/IoT 
 - 💬 Ask me about ... Xamarin / Bots / AI
 - 📫 How to reach me: ... <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> or visit [my portfolio site JoeTomkinson.Dev](https://JoeTokinson.devm) 
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... It works on my machine.
