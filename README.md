@@ -5,6 +5,8 @@
 
 [![Github Followers](https://img.shields.io/github/followers/DigitalSa1nt?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/DigitalSa1nt?tab=followers)
 
+![Profile Views](https://komarev.com/ghpvc/?username=DigitalSa1nt&color=blue)
+
 - 🔭 I’m currently working on ... Xbox/PS4 HDD utility application for the Microsoft Store
 - 🌱 I’m currently learning ... Microsoft AI/IoT 
 - 💬 Ask me about ... Xamarin / Bots / AI
