@@ -7,8 +7,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DigitalSa1nt&color=blue)
 
-- 🔭 I’m currently working on ... Xbox/PS4 HDD utility application for the Microsoft Store
-- 🌱 I’m currently learning ... Microsoft AI/IoT 
+- 🔭 I’m currently working on ... Console HDD utility application for the Microsoft Store
+- 🌱 I’m currently deep diving into ... Microsoft AI (Cognitive Services) / IoT 
 - 💬 Ask me about ... Xamarin / Bots / AI
 - 📫 How to reach me: ... <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> or visit my portfolio site 
 <a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
