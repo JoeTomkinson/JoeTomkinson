@@ -1,4 +1,3 @@
-
 [![DigitalSa1nt's github stats](https://github-readme-stats.vercel.app/api?username=DigitalSa1nt&layout=compact&theme=cobalt)](https://github.com/DigitalSa1nt/)
 
 [![Most_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalSa1nt&layout=compact&theme=cobalt)](https://github.com/DigitalSa1nt)
@@ -13,3 +12,5 @@
 - 📫 How to reach me: ... <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> or visit my portfolio site 
 <a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
 - ⚡ Fun fact: ... It works on my machine.
+<br/>
+*Forgive the Username, it's a bit of a throwback to competive gaming in the 2000's
