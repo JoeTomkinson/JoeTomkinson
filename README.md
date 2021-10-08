@@ -13,4 +13,4 @@
 <a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
 - ⚡ Fun fact: ... It works on my machine.
 <br/>
-*Forgive the Username, it's a bit of a throwback to competive gaming in the 2000's
+*Forgive the Username, it's a bit of a throwback to competive PC gaming in the 2000's
