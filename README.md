@@ -1,10 +1,3 @@
-[![JoeTomkinson's github stats](https://github-readme-stats.vercel.app/api?username=JoeTomkinson&layout=compact&theme=cobalt)](https://github.com/JoeTomkinson/)
-
-[![Most_used_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTomkinson&layout=compact&theme=cobalt)](https://github.com/JoeTomkinson)
-
-[![Github Followers](https://img.shields.io/github/followers/DigitalSa1nt?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/JoeTomkinson?tab=followers)
-
-![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)
 
 - 🔭 I’m currently working on ... Console HDD utility application for the Microsoft Store
 - 🌱 I’m currently deep diving into ... Microsoft AI (Cognitive Services) / IoT 
@@ -13,3 +6,19 @@
 <a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
 - ⚡ Fun fact: ... It works on my machine.
 <br/>
+
+<details>
+  <summary>GitHub Stats</summary>
+  
+  [![JoeTomkinson's github stats](https://github-readme-stats.vercel.app/api?username=JoeTomkinson&layout=compact&theme=cobalt)](https://github.com/JoeTomkinson/)
+
+</details>
+
+<details>
+  <summary>GitHub Followers Stats</summary>
+  
+  [![Github Followers](https://img.shields.io/github/followers/JoeTomkinson?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/JoeTomkinson?tab=followers)
+  
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)
