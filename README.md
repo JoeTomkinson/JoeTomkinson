@@ -1,7 +1,5 @@
+I’m a full-stack software engineer currently in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
 
-- 🔭 I’m currently working on ... Console HDD utility application for the Microsoft Store
-- 🌱 I’m currently deep diving into ... Microsoft AI (Cognitive Services) / IoT 
-- 💬 Ask me about ... Xamarin / Bots / AI
 - 📫 How to reach me: ... <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> or visit my portfolio site 
 <a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
 - ⚡ Fun fact: ... It works on my machine.
