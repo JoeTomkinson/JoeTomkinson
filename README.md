@@ -8,6 +8,21 @@ I’m a full-stack software engineer currently in a Lead Developer role. I adopt
 <br/>
 
 <details>
+  <summary>Technology Stack</summary>
+ </br>
+ 
+  - .NET Family (Including .Net Core)
+  - C#
+  - Microsoft Cognitive Services
+  - ASP.Net
+  - Js, React.js
+  - Xamarin.Forms
+  - Xamarin.Native
+  - Java
+  - Others in varying level of confidence.
+</details>
+
+<details>
   <summary>GitHub Stats</summary>
   
   [![JoeTomkinson's github stats](https://github-readme-stats.vercel.app/api?username=JoeTomkinson&layout=compact&theme=cobalt)](https://github.com/JoeTomkinson/)
