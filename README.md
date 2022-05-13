@@ -1,4 +1,4 @@
-I’m a full-stack software engineer currently in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
+I’m a full-stack software engineer in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
 
 :gem: **I'm open to meaningful pro-bono work for humanitarian organisations so by all means please reach out if that's something you do here within the open-source community.**
 
