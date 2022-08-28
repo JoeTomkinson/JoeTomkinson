@@ -1,11 +1,12 @@
+Hey! Thank you for taking the time to look over my profile. [I'm Joe](https://joetomkinson.dev)
+
+<img src="https://user-images.githubusercontent.com/17493722/187098180-d198cedc-37bb-4d9b-a831-f192f875d504.gif" width="350">
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)  <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> 
+
 I’m a full-stack software engineer in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
 
 :gem: **I'm open to meaningful pro-bono work for humanitarian organisations so by all means please reach out if that's something you do here within the open-source community.**
-
-- :email: How to reach me: ... <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> or visit my portfolio site 
-<a href="https://JoeTomkinson.dev" target = "_blank">JoeTomkinson.Dev</a>
-- :zap: Fun fact: ... It works on my machine.
-<br/>
 
 <details>
   <summary>Technology Stack</summary>
@@ -29,11 +30,4 @@ I’m a full-stack software engineer in a Lead Developer role. I adopt the T-Mod
 
 </details>
 
-<details>
-  <summary>GitHub Followers Stats</summary>
-  
-  [![Github Followers](https://img.shields.io/github/followers/JoeTomkinson?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/JoeTomkinson?tab=followers)
-  
-</details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)
