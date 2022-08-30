@@ -10,7 +10,8 @@ Hey! Thank you for taking the time to look over my profile. [I'm Joe](https://jo
 
 I’m a full-stack software engineer in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
 
-I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple software publisher created for distributing applications that I write for Microsoft platforms.
+I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple software publisher created for distributing applications that I have coded for Microsoft platforms. Most apps can be found in the [Microsoft App Store](https://apps.microsoft.com/store/search?hl=en-gb&gl=GB&publisher=Dev%20in%20a%20Box) :computer:
+
 
 :gem: **I'm open to meaningful pro-bono work for humanitarian organisations so by all means please reach out if that's something you do here within the open-source community.**
 
