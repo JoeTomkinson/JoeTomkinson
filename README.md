@@ -20,10 +20,12 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple softwa
   <summary>Technology Stack</summary>
  </br>
  
-  - .NET Family (Including .Net Core)
+  - .NET Family (Including LTS .Net Core)
   - C#
   - Microsoft Cognitive Services
   - ASP.Net
+  - MAUI
+  - WinUI3 (Windows SDK)
   - Js, React.js
   - Xamarin.Forms
   - Xamarin.Native
