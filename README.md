@@ -6,7 +6,7 @@ Hey! Thank you for taking the time to look over my profile. [I'm Joe](https://jo
 
 ## About Me
 
-<img align="left" alt="Gif" src="https://user-images.githubusercontent.com/17493722/187395759-041447a2-fe64-4f6c-90d1-7fa5ba764985.png" width="200" />
+<img align="left" alt="Gif" src="https://user-images.githubusercontent.com/17493722/187396410-415e8cf8-ffdf-4b49-b088-109ae94d9d35.gif" width="200" />
 
 I’m a full-stack software engineer in a Lead Developer role. I adopt the T-Model of learning so have a broad range of experience across the Microsoft stack including a number of other languages and frameworks. As part of the T-Model I specialise deeply in a few key areas; namely integration development, Cognitive Services (ML & AI), and Xamarin Development.
 
