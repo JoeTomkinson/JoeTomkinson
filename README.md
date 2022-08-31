@@ -39,5 +39,5 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple softwa
 
 <p>
   <img height="172em" width="47%" src="https://github-readme-stats.vercel.app/api?username=JoeTomkinson&layout=compact&theme=cobalt&hide_border=true&include_all_commits=true" />
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTomkinson&show_icons=true&hide_border=true&layout=compact&theme=cobalt&langs_count=8&hide=javascript"/>
+  <img height="172em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTomkinson&show_icons=true&hide_border=true&layout=compact&theme=cobalt&langs_count=8&hide=javascript"/>
 </p>
