@@ -1,5 +1,3 @@
-Hey! Thank you for taking the time to look over my profile. [I'm Joe](https://joetomkinson.dev)
-
 ![Profile Banner](https://user-images.githubusercontent.com/17493722/187394640-0461f42d-79c6-4924-a2b5-8b49f6fb6bea.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)  <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> 
@@ -17,24 +15,14 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple softwa
 
 <br/><br/>
 
-<details>
-  <summary>Technology Stack</summary>
- </br>
+## Technology Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,astro,css,js,jquery,vscode,html" />
+  </a>
+</p>
  
-  - .NET Family (Including LTS .Net Core)
-  - C#
-  - Microsoft Cognitive Services
-  - ASP.Net
-  - MAUI
-  - WinUI3 (Windows SDK)
-  - Js, React.js
-  - Xamarin.Forms
-  - Xamarin.Native
-  - Java
-  - Others in varying level of confidence.
-</details>
-
-
 ## GitHub Stats
 
 <p>
