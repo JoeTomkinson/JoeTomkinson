@@ -18,8 +18,8 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a simple softwa
 ## Technology Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,astro,css,js,jquery,vscode,html" />
+  <a href="https://devinabox.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,astro,css,js,jquery,visualstudio,vscode,html" />
   </a>
 </p>
  
