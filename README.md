@@ -1,4 +1,5 @@
-![Profile Banner](https://user-images.githubusercontent.com/17493722/187394640-0461f42d-79c6-4924-a2b5-8b49f6fb6bea.png)
+![profile banner](https://github.com/JoeTomkinson/JoeTomkinson/assets/17493722/aaefd9f3-94fc-427f-8ec8-f8781c25d27b)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoeTomkinson&color=blue)  <a href="mailto:hello@joetomkinson.dev?"><img src="https://img.shields.io/badge/Email-Hello%40joetomkinson.dev-red"/></a> 
 
