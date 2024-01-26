@@ -11,10 +11,9 @@ I’m a full-stack software engineer in a Head of Software Development role. I a
 
 I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a really simple software publisher created for distributing applications across various Microsoft Platforms. Right now this is a hobbiest organisation allowing me to still remain technically hands on and keep my own technical skills acute. Most apps can be found in the [Microsoft App Store](https://apps.microsoft.com/store/search?hl=en-gb&gl=GB&publisher=Dev%20in%20a%20Box) :computer:
 
+<br/><br/>
 
 :gem: **I'm open to meaningful pro-bono work for humanitarian organisations so by all means please reach out if that's something you do here within the open-source community.**
-
-<br/><br/>
 
 ## Technology Stacks
 
