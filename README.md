@@ -25,9 +25,9 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a really simple
  
 ## GitHub Stats
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoeTomkinson&show_icons=true&theme=synthwave" alt="GitHub stats" width="48%">
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=JoeTomkinson&theme=synthwave" alt="GitHub Streak" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoeTomkinson&show_icons=true&theme=synthwave" alt="GitHub stats" width="48%" style="height: auto;">
+    <a href="https://git.io/streak-stats" style="height: auto;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=JoeTomkinson&theme=synthwave" alt="GitHub Streak" width="48%" style="height: 100%;">
     </a>
 </div>
 
