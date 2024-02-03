@@ -25,3 +25,7 @@ I'm also the founder of [Dev in a Box ©](https://devinabox.dev) a really simple
  
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeTomkinson&show_icons=true&theme=synthwave)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoeTomkinson&theme=synthwave)](https://git.io/streak-stats)
+
+## Communities
+<a href="[https://stackoverflow.com/users/4486115/joetomks](https://stackoverflow.com/users/4486115/joetomks)"><img src="https://stackoverflow.com/users/flair/4486115.png" width="208" height="58" alt="profile for Joe Tomkinson at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Joe Tomkinson at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
