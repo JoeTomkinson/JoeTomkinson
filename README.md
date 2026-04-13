@@ -29,7 +29,7 @@ Before BHF I spent **nine years at a UK digital consultancy**, moving from Softw
 
 **Engineering that ships.** Platform engineering work that's taken deployment cycles from hours to minutes. Micro front-end architectures that let teams move independently. Integration platforms that don't fall over at month-end.
 
-**AI, honestly.** Generative and agentic AI are changing development workflows in meaningful ways — but the value comes from treating AI like any other engineering investment: measurable, incremental, and tied to tangible outcomes. I coined **[ACES — Agentic Coding & Engineering as a Service](https://www.ctco.blog)** as a way to think about delivery capacity when it starts behaving like an external service dependency.
+**AI, honestly.** Generative and agentic AI are changing development workflows in meaningful ways — but the value comes from treating AI like any other engineering investment: measurable, incremental, and tied to tangible outcomes. I coined **[ACES — Agentic Coding & Engineering as a Service](https://www.ctco.blog/posts/aces-reality-check-when-your-engineering-team-is-an-api)** as a way to think about delivery capacity when it starts behaving like an external service dependency.
 
 **The people side.** Career ladders that mean something. Mentoring graduates. Inclusive and regional recruitment. A quality-first culture where teams feel confident enough to stop and fix rather than ship and hope.
 
