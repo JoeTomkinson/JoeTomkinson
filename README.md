@@ -17,7 +17,7 @@ I've spent **15+ years** in software engineering, and the thread running through
 Today I lead a **~30-person engineering function** at the British Heart Foundation, spanning platform, infrastructure, DevOps, QA, and delivery — the teams behind the digital platforms that power BHF's fundraising, supporter engagement, retail, and data integration. My focus areas:
 
 - Owning a **5-year Software Engineering Enterprise Vision** aligned to BHF's wider tech strategy
-- Establishing engineering governance where none previously existed
+- Establishing and maintaining good clear engineering governance
 - Managing significant vendor partnerships and multi-year contract strategy
 - Championing people development — career ladder redesign, graduate mentoring, and regional recruitment
 
