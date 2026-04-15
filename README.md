@@ -44,13 +44,13 @@ Before BHF I spent **nine years at a UK digital consultancy**, moving from Softw
 
 ## Tech I work with
 
-**Languages & runtimes** &nbsp; C# · .NET · TypeScript · JavaScript | Python · Java
-**Cloud & platform** &nbsp; Azure · AKS · App Services · Functions · Event Hub · API Management · Service Bus · Bicep · GitHub Actions
-**Front-end** &nbsp; Vue · Next.js · React · Astro (micro front-end architectures)
-**Data & CX** &nbsp; Microsoft Dataverse / D365 CE · SQL · Postgres
-**Desktop** &nbsp; WPF · WinUI · Xamarin · MAUI · WinForms
-**AI & ML** &nbsp; Azure AI / Cognitive Services · generative & agentic AI workflows · GitHub Copilot · Microsoft Copilot Studio
-**Security & compliance** &nbsp; ISO 27001 · Cyber Essentials Plus · PCI DSS
+**Languages & runtimes** &nbsp; C# · .NET · TypeScript · JavaScript | Python · Java <br/>
+**Cloud & platform** &nbsp; Azure · AKS · App Services · Functions · Event Hub · API Management · Service Bus · Bicep · GitHub Actions <br/>
+**Front-end** &nbsp; Vue · Next.js · React · Astro (micro front-end architectures) <br/>
+**Data & CX** &nbsp; Microsoft Dataverse / D365 CE · SQL · Postgres <br/>
+**Desktop** &nbsp; WPF · WinUI · Xamarin · MAUI · WinForms <br/>
+**AI & ML** &nbsp; Azure AI / Cognitive Services · generative & agentic AI workflows · GitHub Copilot · Microsoft Copilot Studio <br/>
+**Security & compliance** &nbsp; ISO 27001 · Cyber Essentials Plus · PCI DSS <br/>
 
 ---
 
